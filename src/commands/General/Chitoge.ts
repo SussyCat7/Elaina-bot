@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `💕 *akuma* 💕\n\n🍀 *Description: A WhatsApp Bot developed by *sumith* With Rich Anime features based on akuma.*\n\n🌐 *OFFICIAL BOT URL:https://github.com/Ronen6999/Elaina-bot* \n\n 📒 *Guide:https://github.com/Ronen6999/Elaina-bot* \n\n 👾 *BOT URL:https://github.com/Ronen6999/Elaina-bot* \n`,
+				caption: `💕 *akuma* 💕\n\n🍀 *Description: A WhatsApp Bot developed by *sumith* With Rich Anime features based on akuma.*\n\n🌐 *OFFICIAL BOT URL:https://github.com/Aryastark2/Elaina-bot.git* \n\n 📒 *Guide:https://github.com/Aryastark2/Elaina-bot.git* \n\n 👾 *BOT URL:https://github.com/Aryastark2/Elaina-bot.git* \n`,
 			}
 		);
 	};
